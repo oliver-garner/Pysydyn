@@ -65,7 +65,7 @@ Pytlint was also able to give a "review", giving us a score of 9.32/10 in the co
 
 ## Support
 If any errors are encountered, technical support can be offered by the authors at:  
-s194770@student.dtu.dk  
+oliver.gustav.garner@gmail.com
 s233553@student.dtu.dk  
 s240121@student.dtu.dk  
 
@@ -82,5 +82,6 @@ Fabio Pierella
 Sithikv Aliyar  
 Bogdan Pamfil  
 All the code and package testers  
+
 
 
