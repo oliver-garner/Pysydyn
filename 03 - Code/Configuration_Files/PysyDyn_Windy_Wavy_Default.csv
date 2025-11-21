@@ -1,0 +1,20 @@
+Inputs,values,Unit,variables
+Total run time,1200,s,time_span
+Time increments,0.1,s,time_change
+Significant wave height,5,m,wave_height
+Peak wave period,10,s,wave_period
+Bottom of sea floor,100,m,sea_floor
+wind_mean,8,m/s,wind_mean
+turb_intens,0.14,%,turb_intens
+Hub height in Z,119,m,hub_height
+Bottom of floater in Z,30,m,floater_bottom
+Density of water,1025,kg/m3,rho_water
+Density of air,1.22,kg/m3,rho_air
+Coefficient of moment,1,-,coeff_moment
+Coefficient of drag,0.6,-,coeff_drag
+Gravity,9.81,m/s2,gravity
+Frequency high cut,0.5,/s ,f_high_cut
+a,0.5,,a
+b,0.65,,b
+"Wind toggle (1-regular, 2-irregular)",2,-,wind_toggle
+"Wave toggle (1-regular, 2-irregular)",2,-,wave_toggle
