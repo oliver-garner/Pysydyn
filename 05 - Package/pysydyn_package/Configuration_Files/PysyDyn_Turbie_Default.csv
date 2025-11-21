@@ -1,0 +1,10 @@
+Inputs,values,Unit,variables
+Mass of turbine assembly,673998,kg,m_turbie
+Mass of tower,546920,kg,m_tower
+Tower center of mass in Z,56.4,m,z_cm_tower
+Second moment of Inertia of tower,421680000,kgm2,i_cm_tower
+Hub height,119,m,z_hub
+Diameter of Rotor,178,m,d_rotor
+Turbine rated wind speed,11.4,m/s,v_rated
+Turbine center of mass in X,0,m,x_cm_hub
+Reference coefficient of thrust,0.81,-,ct_0

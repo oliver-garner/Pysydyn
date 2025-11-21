@@ -1,0 +1,15 @@
+Inputs,values,Unit,variables
+Mass of floater assembly,1.09E+07,kg,m_tot_floaty
+Floater center of mass in Z,-105.95,m,z_cm_floaty
+Floater center of mass in X,0,m,x_cm_floaty
+Floater second moment of inertia,1.16E+10,kgm2,i_cm_floaty
+Floater linear moment of water plane area,0,kgm2,i_x_area_floaty
+Floater bottom in Z,-120,m,z_bot_floaty
+Floater tank diameter,11.2,m,d_tank
+Mooring stiffness in X,66700,Nm,k_moor_x
+Mooring stiffness in Z,0,Nm,k_moor_z
+Mooring attachment in Z,-60,m,z_moor
+Mooring attachment in X,0,m,x_moor
+Number of tanks per corner,1,-,no_of_tanks_per_corner
+Number of corners with tanks,1,-,no_of_corners
+Pitch Circle Radius of tanks,1000,m,pcd_tanks

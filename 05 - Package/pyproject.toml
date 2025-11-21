@@ -1,0 +1,29 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+# Information on the package
+[project]
+name = "pysydyn_package"
+description = "Final project package"
+version = "0.1.0"
+authors = [
+    { name = "Oliver Garner", email = "s194770@student.dtu.dk" },
+    { name = "Tony Teng", email = " s233553@student.dtu.dk" },
+    { name = "Farras Muhammad Fikry", email = "s240121@student.dtu.dk" }
+]
+dependencies = [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "pathlib",
+    "scipy",
+    "tqdm"
+
+]
+requires-python = ">=3.8"
+
+[project.urls]
+Respository = "https://gitlab.windenergy.dtu.dk/spp/spp-2024a/final-projects/pysydyn"
+
+
